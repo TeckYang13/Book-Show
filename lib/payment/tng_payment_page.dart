@@ -556,7 +556,7 @@ class _TngPaymentPageState extends State<TngPaymentPage> {
                             child: ClipRRect(
                               borderRadius: BorderRadius.circular(12),
                               child: Image.asset(
-                                'assets/image/QR code.jpg',
+                                'assets/image/QR code 2.jpg',
                                 width: 280,
                                 height: 280,
                                 fit: BoxFit.cover,
@@ -620,7 +620,7 @@ class _TngPaymentPageState extends State<TngPaymentPage> {
                                         color: Colors.blue.shade700, size: 20),
                                     const SizedBox(width: 8),
                                     const Text(
-                                      "Name: MyDiabolo Enterprise",
+                                      "Name: DIABOLO ART ENTERTAINMENT",
                                       style: TextStyle(fontSize: 14,
                                           fontWeight: FontWeight.w500),
                                     ),
@@ -630,7 +630,7 @@ class _TngPaymentPageState extends State<TngPaymentPage> {
                                 GestureDetector(
                                   onTap: () {
                                     Clipboard.setData(const ClipboardData(
-                                        text: '012-3456789'));
+                                        text: '512987013971'));
                                     if (mounted) {
                                       ScaffoldMessenger
                                           .of(context)
@@ -665,7 +665,7 @@ class _TngPaymentPageState extends State<TngPaymentPage> {
                                             size: 18),
                                         const SizedBox(width: 8),
                                         Text(
-                                          "Number: 012-3456789",
+                                          "Number: 012-6373322",
                                           style: TextStyle(
                                             color: Colors.blue.shade700,
                                             fontWeight: FontWeight.w600,

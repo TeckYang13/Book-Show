@@ -39,6 +39,8 @@ dependencies:
   flutter_secure_storage: ^9.2.4
   permission_handler: ^12.0.0+1
   flutter_dotenv: ^5.2.1
+  app_links: ^3.4.5
+  webview_flutter: ^4.2.1
   flutter:
     sdk: flutter
   path: ^1.9.1
@@ -86,6 +88,7 @@ flutter:
     - assets/image/logo 2.jpg
     - assets/image/logo 3.png
     - assets/image/QR code.jpg
+    - assets/image/QR code 2.jpg
     - .env
 
 

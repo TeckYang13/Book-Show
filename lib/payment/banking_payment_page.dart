@@ -831,9 +831,7 @@ class _BankingPaymentPageState extends State<BankingPaymentPage> with TickerProv
                               child: ListView(
                                 scrollDirection: Axis.horizontal,
                                 children: [
-                                  _buildBankCard('Maybank', 'MyDiabolo Academy', '123456789012'),
-                                  _buildBankCard('Public Bank', 'MyDiabolo Academy', '987654321098'),
-                                  _buildBankCard('CIMB', 'MyDiabolo Academy', '112233445566'),
+                                  _buildBankCard('Maybank', 'DIABOLO ART ENTERTAINMENT', '512987013971'),
                                 ],
                               ),
                             ),

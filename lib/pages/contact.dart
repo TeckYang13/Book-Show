@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class ContactUsPage extends StatelessWidget {
-  final String whatsappNumber = '601131313584'; // Replace with your actual WhatsApp number
+  final String whatsappNumber = '60126373322'; // Replace with your actual WhatsApp number
 
   @override
   Widget build(BuildContext context) {
